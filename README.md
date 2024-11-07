@@ -1,5 +1,4 @@
 # app-dev
 My first repository
 # Favorite TV Series
-**Dexter**
-**Game of Thrones**
+**Dexter**,**Game of Thrones**
